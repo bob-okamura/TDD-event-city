@@ -5,7 +5,7 @@
 
 # Sobre o desafio
 
-### Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
+### Implementar as funcionalidades necessárias para que os testes do projeto abaixo passem:
 [https://github.com/devsuperior/bds02]
 
 ### Collection do Postman:
@@ -15,13 +15,6 @@
 ![Diagrama](https://user-images.githubusercontent.com/78389467/182003338-7078365f-0807-4fb5-a960-36d401713fd6.png)
 
 #### Mínimo para aprovação: 5/7
-
-
-### -Busca paginada de recursos;
-### -Busca de recurso por id;
-### -Inserir novo recurso;
-### -Atualizar recurso;
-### -Deletar recurso.
 
 # Tecnologias utilizadas
 
